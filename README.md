@@ -1,14 +1,8 @@
 # Vet-clinic-database
-Vet-clinic-database is a comprehensive up-to-date COVID-19 tracker and Treatment tracker website which has been landed to inform people throughout the planet about the present novel coronavirus (COVID-19) pandemic. In Vet-clinic-database you can also find the most relevant and up-to-date covid19 information. 
-
-## Below is the screenshot of my work
-![Vet-clinic-database](https://github.com/ndikumanaisaie/Vet-clinic-database/blob/setup/src/assets/images/shot.png)
+Vet-clinic-database is a datastructure for a vet clinic. 
 
 ## Built with
-- Javascript
-- React
-- Redux
-- gitflow
+- ProgressSql database
 
 ## Author
 
@@ -20,11 +14,6 @@ Vet-clinic-database is a comprehensive up-to-date COVID-19 tracker and Treatment
 
 ## Link to URL on gitHub
 - [Vet-clinic-database](https://github.com/ndikumanaisaie/Vet-clinic-database.git)
-## Link to URL on browser
-- [Vet-clinic-database](https://isaiecovid19tracker.netlify.app/)
-## Link to video describing the project
-- [Vet-clinic-database](https://www.loom.com/share/4267831086c34bcebc7c664c7a01c44d)
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
